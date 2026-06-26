@@ -15,8 +15,10 @@ I've personally used it for two of my favorite projects and it has worked pretty
 - 2017 Test images [41K/6GB] (40,670 items)
 - 2017 Unlabeled images [123K/19GB] (123,403 items)
 
-Total count: 287,360
+Total count: 287,360 items.
 
 ### Annotations
 
 - 2017 Train/Val annotations [241MB]
+- 2017 Testing Image info [1MB]
+- 2017 Unlabeled Image Info [4MB]
